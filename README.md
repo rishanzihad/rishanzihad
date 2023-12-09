@@ -79,8 +79,12 @@ Link: [Brand Shop Project Link](https://future-oil.surge.sh)
 GitHub code Link: (https://github.com/rishanzihad/Brand-Shop)
 
 ## 📈 Current Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishanzihad&show_icons=true&locale=en&layout=compact" alt="rishanzihad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishanzihad&theme=tokyonight" alt="rishanzihad" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishanzihad&show_icons=true&locale=en&theme=tokyonight" alt="rishanzihad">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishanzihad&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishanzihad" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishanzihad&theme=tokyonight" alt="">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishanzihad&show_icons=true&locale=en" alt="rishanzihad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishanzihad&" alt="rishanzihad" /></p>

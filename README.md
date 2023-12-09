@@ -7,6 +7,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishanzihad&label=Profile%20views&color=0e75b6&style=flat" alt="rishanzihad" /> </p>
 
+## My Projects
+
+### Project 1
+
+Description: MedCamp is a sophisticated web-based platform designed to streamline the management of medical camps, fostering efficient collaboration among Organizers, Healthcare Professionals, and Participants. This comprehensive system prioritizes intuitive design, robust features, and user-specific dashboards to enhance the experience for all stakeholders..
+
+Link: [Project 1](https://medical-camp-management.web.app)
+
+
+### Project 2
+
+Description: Blogify is a comprehensive and feature-rich blogging platform designed to elevate the user experience in the world of content creation. With a focus on user-friendly design, advanced authentication, and responsive functionality, Blogify provides a robust foundation for bloggers and readers alike.
+
+Link: [Project 2](https://exultant-business.surge.sh)
+
+
+### Project 3
+
+Description: TechHub is a unique website that sets itself apart by offering an original design and concept focused on the dynamic realm of "Technology and Electronics." Meticulous research ensures that the website stands out, avoiding any resemblance to previous assignments or demo projects..
+
+Link: [Project 3](https://future-oil.surge.sh)
+
+
 - 🔭 I’m currently working on **My protfolio**
 
 - 🌱 I’m currently learning **Next.js**

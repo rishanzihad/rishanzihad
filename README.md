@@ -15,12 +15,16 @@ Description: MedCamp is a sophisticated web-based platform designed to streamlin
 
 Link: [Project 1](https://medical-camp-management.web.app)
 
+GitHub code Link:(https://github.com/rishanzihad/Health-Management-Client)
+
 
 ### Project 2
 
 Description: Blogify is a comprehensive and feature-rich blogging platform designed to elevate the user experience in the world of content creation. With a focus on user-friendly design, advanced authentication, and responsive functionality, Blogify provides a robust foundation for bloggers and readers alike.
 
 Link: [Project 2](https://exultant-business.surge.sh)
+
+GitHub code Link: (https://github.com/rishanzihad/Blog_Mania)
 
 
 ### Project 3
@@ -29,7 +33,9 @@ Description: TechHub is a unique website that sets itself apart by offering an o
 
 Link: [Project 3](https://future-oil.surge.sh)
 
+GitHub code Link: (https://github.com/rishanzihad/Brand-Shop)
 
+## Work
 - 🔭 I’m currently working on **My protfolio**
 
 - 🌱 I’m currently learning **Next.js**
